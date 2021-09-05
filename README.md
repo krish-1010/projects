@@ -4,8 +4,8 @@
 
     Further ideas:
     
-     0) sort according to name and issue roll nos
+     1) sort according to name and issue roll nos
      
-     1) sort according to roll no and display
+     2) sort according to roll no and display
      
-     2) Adding to Database
+     3) Adding to Database
