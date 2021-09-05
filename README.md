@@ -1,8 +1,8 @@
- projects
+ projects:
 
- Simple Student management using python
+ 1) Simple Student management using python
 
- Further ideas:"\n"
- *) sort according to name and issue roll nos
- *) sort according to roll no and display
- *) Adding to Database
+    Further ideas:
+     *) sort according to name and issue roll nos
+     *) sort according to roll no and display
+     *) Adding to Database
