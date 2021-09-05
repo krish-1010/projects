@@ -2,7 +2,7 @@
 
  Simple Student management using python
 
- Further ideas:
+ Further ideas:\n
  *) sort according to name and issue roll nos
  *) sort according to roll no and display
  *) Adding to Database
